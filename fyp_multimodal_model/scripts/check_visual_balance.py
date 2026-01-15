@@ -39,7 +39,7 @@ def main():
     parser.add_argument(
         "--config",
         type=str,
-        default=None,
+        default=os.path.join(os.path.dirname(__file__), '../config.json'),
         help="Path to config.json (must contain dataset_csv and image_dir).",
     )
     parser.add_argument(

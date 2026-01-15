@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.atelierozmoz.be",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9997498405248638,
+    "confidence": 0.9997498405248638,
+    "correct": true
+  },
+  {
+    "url": "https://www.diemon.com",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9989356655441559,
+    "confidence": 0.9989356655441559,
+    "correct": true
+  },
+  {
+    "url": "https://www.wausauschools.org",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9998301384532017,
+    "confidence": 0.9998301384532017,
+    "correct": true
+  },
+  {
+    "url": "https://www.paademode.com",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9993649460161952,
+    "confidence": 0.9993649460161952,
+    "correct": true
+  },
+  {
+    "url": "https://www.boxturtles.com",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9989732506916714,
+    "confidence": 0.9989732506916714,
+    "correct": true
+  },
+  {
+    "url": "https://www.mmstadium.com",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9995364126374893,
+    "confidence": 0.9995364126374893,
+    "correct": true
+  },
+  {
+    "url": "https://www.brswimwear.com",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9989732506916714,
+    "confidence": 0.9989732506916714,
+    "correct": true
+  },
+  {
+    "url": "https://www.leathercouncil.org",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9999536408967846,
+    "confidence": 0.9999536408967846,
+    "correct": true
+  },
+  {
+    "url": "https://www.historync.org",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.9999506750106086,
+    "confidence": 0.9999506750106086,
+    "correct": true
+  },
+  {
+    "url": "https://www.toshin.com",
+    "true_label": "PHISHING",
+    "predicted": "PHISHING",
+    "phishing_prob": 0.999483002645146,
+    "confidence": 0.999483002645146,
+    "correct": true
+  }
+]

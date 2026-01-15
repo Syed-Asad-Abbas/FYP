@@ -32,6 +32,11 @@ from sklearn.metrics import (
     precision_recall_fscore_support,
 )
 
+import sys
+
+# Add parent directory to path to import from root
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
 from utils import load_config, load_dataset
 
 # Heuristics from main DOM script
@@ -201,7 +206,8 @@ def run_variant(
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--config", default="config.json")
+    default_config = os.path.join(os.path.dirname(__file__), '../config.json')
+    parser.add_argument("--config", default=default_config)
     args = parser.parse_args()
 
     print("[ABLATION] Loading config and dataset...")

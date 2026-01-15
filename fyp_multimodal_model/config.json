@@ -1,5 +1,5 @@
 {
-  "dataset_csv": "E:\\FYP\\fyp_multimodal_model\\data\\PhiUSIIL_Phishing_URL_Dataset.csv",
-  "image_dir": "E:\\FYP\\fyp_multimodal_model\\screenshots/",
-  "models_dir": "E:\\FYP\\fyp_multimodal_model\\models/"
+  "dataset_csv": "d:/FYP antigravity/fyp_multimodal_model/data/PhiUSIIL_Phishing_URL_Dataset.csv",
+  "image_dir": "d:/FYP antigravity/fyp_multimodal_model/screenshots/",
+  "models_dir": "d:/FYP antigravity/fyp_multimodal_model/models/"
 }

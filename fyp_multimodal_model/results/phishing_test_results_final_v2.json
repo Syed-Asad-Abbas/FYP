@@ -1,0 +1,868 @@
+[
+  {
+    "url": "http://allegrolokalnie.pl-oferta73419590.icu",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746872762236,
+    "fusion_probability_phishing": 2.531272377632011e-05,
+    "modality_scores": {
+      "url": 5.082552071753446e-07,
+      "dom": 0.02032032463403563,
+      "visual": 0.20339475572109222
+    },
+    "modality_confidence": {
+      "url": 0.9999994917447929,
+      "dom": 0.9796796753659643,
+      "visual": 0.7966052889823914
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "",
+      "final_url": "https://allegrolokalnie.pl-oferta73419590.icu/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764292999821.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://allegro.pl-oferta73419590.icu",
+    "prediction": "BENIGN",
+    "confidence": 0.9999747804336029,
+    "fusion_probability_phishing": 2.5219566397157095e-05,
+    "modality_scores": {
+      "url": 1.6718835347238735e-06,
+      "dom": 0.02032032463403563,
+      "visual": 0.20339475572109222
+    },
+    "modality_confidence": {
+      "url": 0.9999983281164653,
+      "dom": 0.9796796753659643,
+      "visual": 0.7966052889823914
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "",
+      "final_url": "https://allegro.pl-oferta73419590.icu/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293009715.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://zanilo.cfd/indexco.jp",
+    "prediction": "PHISHING",
+    "confidence": 0.8294404149055481,
+    "fusion_probability_phishing": 0.8294404149055481,
+    "modality_scores": {
+      "url": 9.094060903473459e-08,
+      "dom": 0.5835182967529188,
+      "visual": 0.8294404149055481
+    },
+    "modality_confidence": {
+      "url": 0.999999909059391,
+      "dom": 0.5835182967529188,
+      "visual": 0.8294404149055481
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "\u307f\u305a\u307b\u8a3c\u5238",
+      "final_url": "https://zanilo.cfd/indexco.jp",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293021057.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 1,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 5,
+      "NoOfExternalImage": 2,
+      "NoOfJS": 2,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 30,
+      "NoOfExternalLinks": 15,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://deliva.cfd/indexco.jp",
+    "prediction": "PHISHING",
+    "confidence": 0.8294404149055481,
+    "fusion_probability_phishing": 0.8294404149055481,
+    "modality_scores": {
+      "url": 9.094060903473459e-08,
+      "dom": 0.5835182967529188,
+      "visual": 0.8294404149055481
+    },
+    "modality_confidence": {
+      "url": 0.999999909059391,
+      "dom": 0.5835182967529188,
+      "visual": 0.8294404149055481
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "\u307f\u305a\u307b\u8a3c\u5238",
+      "final_url": "https://deliva.cfd/indexco.jp",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293033732.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 1,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 5,
+      "NoOfExternalImage": 2,
+      "NoOfJS": 2,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 30,
+      "NoOfExternalLinks": 15,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://bpp01-6816a2c8dbc1.herokuapp.com/",
+    "prediction": "BENIGN",
+    "confidence": 0.9999658585711357,
+    "fusion_probability_phishing": 3.4141428864229195e-05,
+    "modality_scores": {
+      "url": 8.390747857888418e-07,
+      "dom": null,
+      "visual": null
+    },
+    "modality_confidence": {
+      "url": 0.9999991609252142,
+      "dom": null,
+      "visual": null
+    },
+    "modality_available": {
+      "url": true,
+      "dom": false,
+      "visual": false
+    },
+    "page_info": {
+      "fetch_success": false,
+      "page_title": null,
+      "final_url": "https://bpp01-6816a2c8dbc1.herokuapp.com/",
+      "screenshot_path": null
+    },
+    "dom_features": {}
+  },
+  {
+    "url": "https://beneficios-banproduccion2-five.vercel.app/...",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746791072925,
+    "fusion_probability_phishing": 2.5320892707435085e-05,
+    "modality_scores": {
+      "url": 5.1453989257157216e-08,
+      "dom": 0.03245113807540724,
+      "visual": 0.16300612688064575
+    },
+    "modality_confidence": {
+      "url": 0.9999999485460107,
+      "dom": 0.9675488619245928,
+      "visual": 0.8369938731193542
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "404: NOT_FOUND",
+      "final_url": "https://beneficios-banproduccion2-five.vercel.app/...",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293063880.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 1,
+      "NoOfExternalLinks": 1,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://netempresa.sac-on.com/sicronizar/8VY0JG5G...",
+    "prediction": "BENIGN",
+    "confidence": 0.999974679211039,
+    "fusion_probability_phishing": 2.5320788961046998e-05,
+    "modality_scores": {
+      "url": 5.187111549236113e-08,
+      "dom": 0.11638271674376897,
+      "visual": 0.5497796535491943
+    },
+    "modality_confidence": {
+      "url": 0.9999999481288845,
+      "dom": 0.883617283256231,
+      "visual": 0.5497796535491943
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Attention Required! | Cloudflare",
+      "final_url": "https://netempresa.sac-on.com/sicronizar/8VY0JG5G...",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293073424.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 5,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 1,
+      "NoOfExternalLinks": 1,
+      "HasIframe": 1,
+      "NoOfIframe": 1,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://allegrolokalnie.pl-oferta98137359.sbs",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746872762236,
+    "fusion_probability_phishing": 2.531272377632011e-05,
+    "modality_scores": {
+      "url": 5.082552071753446e-07,
+      "dom": 0.02032032463403563,
+      "visual": 0.20339475572109222
+    },
+    "modality_confidence": {
+      "url": 0.9999994917447929,
+      "dom": 0.9796796753659643,
+      "visual": 0.7966052889823914
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "",
+      "final_url": "https://allegrolokalnie.pl-oferta98137359.sbs/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293083210.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://abszfgrtr65.blogspot.com",
+    "prediction": "BENIGN",
+    "confidence": 0.9999747806889757,
+    "fusion_probability_phishing": 2.5219311024334675e-05,
+    "modality_scores": {
+      "url": 1.5857502990436952e-06,
+      "dom": 0.08736926817045178,
+      "visual": 0.03598131239414215
+    },
+    "modality_confidence": {
+      "url": 0.9999984142497009,
+      "dom": 0.9126307318295482,
+      "visual": 0.9640186429023743
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Blog not found",
+      "final_url": "https://abszfgrtr65.blogspot.com/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293094047.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 1,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 3,
+      "NoOfExternalJS": 2,
+      "NoOfLinks": 14,
+      "NoOfExternalLinks": 12,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://allegrolokalnie.oferta212472.sbs",
+    "prediction": "BENIGN",
+    "confidence": 0.9999747586231259,
+    "fusion_probability_phishing": 2.5241376874041856e-05,
+    "modality_scores": {
+      "url": 9.284456468448942e-07,
+      "dom": 0.02032032463403563,
+      "visual": 0.20339475572109222
+    },
+    "modality_confidence": {
+      "url": 0.9999990715543532,
+      "dom": 0.9796796753659643,
+      "visual": 0.7966052889823914
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "",
+      "final_url": "https://allegrolokalnie.oferta212472.sbs/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293103681.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://allegro.pl-oferta955294390.icu",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746872762236,
+    "fusion_probability_phishing": 2.531272377632011e-05,
+    "modality_scores": {
+      "url": 5.090120016485125e-07,
+      "dom": 0.02032032463403563,
+      "visual": 0.20339475572109222
+    },
+    "modality_confidence": {
+      "url": 0.9999994909879983,
+      "dom": 0.9796796753659643,
+      "visual": 0.7966052889823914
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "",
+      "final_url": "https://allegro.pl-oferta955294390.icu/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293113482.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://serbasi1.blogspot.com",
+    "prediction": "BENIGN",
+    "confidence": 0.9999747809168217,
+    "fusion_probability_phishing": 2.5219083178306918e-05,
+    "modality_scores": {
+      "url": 1.0324630427086505e-06,
+      "dom": 0.1443612049968064,
+      "visual": 0.5099769830703735
+    },
+    "modality_confidence": {
+      "url": 0.9999989675369573,
+      "dom": 0.8556387950031936,
+      "visual": 0.5099769830703735
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Attention Required! | Cloudflare",
+      "final_url": "https://byflowersg.com/opt",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293123779.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 4,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 1,
+      "NoOfExternalLinks": 1,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://app.biamilhasofertas.live/inicio",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746750695536,
+    "fusion_probability_phishing": 2.5324930446336708e-05,
+    "modality_scores": {
+      "url": 6.416651103507572e-07,
+      "dom": 0.00722931354891755,
+      "visual": 0.01836313121020794
+    },
+    "modality_confidence": {
+      "url": 0.9999993583348896,
+      "dom": 0.9927706864510825,
+      "visual": 0.9816368222236633
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Suspected phishing site | Cloudflare",
+      "final_url": "https://app.biamilhasofertas.live/inicio",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293135478.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 3,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 6,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 2,
+      "NoOfExternalLinks": 2,
+      "HasIframe": 1,
+      "NoOfIframe": 1,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://allegro.pl-3255111.cyou",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746605354941,
+    "fusion_probability_phishing": 2.5339464505862664e-05,
+    "modality_scores": {
+      "url": 1.5541301213818863e-06,
+      "dom": 0.0019375952247956173,
+      "visual": 0.12959633767604828
+    },
+    "modality_confidence": {
+      "url": 0.9999984458698786,
+      "dom": 0.9980624047752044,
+      "visual": 0.8704037070274353
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "404 Not Found",
+      "final_url": "https://allegro.pl-3255111.cyou/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293145448.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 1,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://app.promoexata.live/splash",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746750695536,
+    "fusion_probability_phishing": 2.5324930446336708e-05,
+    "modality_scores": {
+      "url": 7.614401070518107e-07,
+      "dom": 0.00722931354891755,
+      "visual": 0.018388943746685982
+    },
+    "modality_confidence": {
+      "url": 0.9999992385598929,
+      "dom": 0.9927706864510825,
+      "visual": 0.9816111326217651
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Suspected phishing site | Cloudflare",
+      "final_url": "https://app.promoexata.live/splash",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293155333.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 3,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 6,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 2,
+      "NoOfExternalLinks": 2,
+      "HasIframe": 1,
+      "NoOfIframe": 1,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://app.biaatendimentoclube.live/baser",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746751307229,
+    "fusion_probability_phishing": 2.532486927709657e-05,
+    "modality_scores": {
+      "url": 6.358413505407462e-07,
+      "dom": 0.00722931354891755,
+      "visual": 0.028531529009342194
+    },
+    "modality_confidence": {
+      "url": 0.9999993641586494,
+      "dom": 0.9927706864510825,
+      "visual": 0.9714685082435608
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Suspected phishing site | Cloudflare",
+      "final_url": "https://app.biaatendimentoclube.live/baser",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293165268.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 3,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 6,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 2,
+      "NoOfExternalLinks": 2,
+      "HasIframe": 1,
+      "NoOfIframe": 1,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://allegrolokalnie.pl-82725255162619876667a726252552526267pp271.ic...",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746884882424,
+    "fusion_probability_phishing": 2.5311511757529483e-05,
+    "modality_scores": {
+      "url": 1.32490642210495e-07,
+      "dom": null,
+      "visual": null
+    },
+    "modality_confidence": {
+      "url": 0.9999998675093578,
+      "dom": null,
+      "visual": null
+    },
+    "modality_available": {
+      "url": true,
+      "dom": false,
+      "visual": false
+    },
+    "page_info": {
+      "fetch_success": false,
+      "page_title": null,
+      "final_url": "http://allegrolokalnie.pl-82725255162619876667a726252552526267pp271.ic...",
+      "screenshot_path": null
+    },
+    "dom_features": {}
+  },
+  {
+    "url": "https://maintain.antiquels.cn/mizuho",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746872762236,
+    "fusion_probability_phishing": 2.531272377632011e-05,
+    "modality_scores": {
+      "url": 5.223402321872197e-07,
+      "dom": 0.02032032463403563,
+      "visual": 0.20339475572109222
+    },
+    "modality_confidence": {
+      "url": 0.9999994776597678,
+      "dom": 0.9796796753659643,
+      "visual": 0.7966052889823914
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "404",
+      "final_url": "https://maintain.antiquels.cn/mizuho",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293181670.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 0,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "https://scanned.page/55eUnV",
+    "prediction": "PHISHING",
+    "confidence": 0.8268604154639669,
+    "fusion_probability_phishing": 0.8268604154639669,
+    "modality_scores": {
+      "url": 5.430040114246098e-08,
+      "dom": 0.8268604154639669,
+      "visual": 0.5943475961685181
+    },
+    "modality_confidence": {
+      "url": 0.9999999456995988,
+      "dom": 0.8268604154639669,
+      "visual": 0.5943475961685181
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "drition.serv00.net",
+      "final_url": "https://drition.serv00.net/AZ/AZ/redirect.php",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293191984.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 2,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 2,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  },
+  {
+    "url": "http://78382google.com",
+    "prediction": "BENIGN",
+    "confidence": 0.999974682721118,
+    "fusion_probability_phishing": 2.5317278881973313e-05,
+    "modality_scores": {
+      "url": 3.3603933144241764e-07,
+      "dom": 0.13285955944139538,
+      "visual": 0.07709124684333801
+    },
+    "modality_confidence": {
+      "url": 0.9999996639606685,
+      "dom": 0.8671404405586046,
+      "visual": 0.9229087233543396
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Loading...",
+      "final_url": "https://78382google.com/index.php?passtoken=&redirect=/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1764293204156.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 0,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 4,
+      "NoOfExternalJS": 2,
+      "NoOfLinks": 0,
+      "NoOfExternalLinks": 0,
+      "HasIframe": 1,
+      "NoOfIframe": 3,
+      "SuspiciousFormAction": 0,
+      "Bank": 0,
+      "Pay": 0,
+      "Crypto": 0
+    }
+  }
+]

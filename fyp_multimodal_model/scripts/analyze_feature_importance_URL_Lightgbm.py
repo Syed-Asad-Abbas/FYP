@@ -11,8 +11,9 @@ from sklearn.model_selection import train_test_split
 from sklearn.inspection import permutation_importance
 
 # --- YOUR PATHS ---
-DATASET_CSV = r"E:\FYP\fyp_multimodal_model\data\PhiUSIIL_Phishing_URL_Dataset.csv"
-MODEL_PATH  = r"E:\FYP\fyp_multimodal_model\models\url_lgbm.joblib"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATASET_CSV = os.path.join(BASE_DIR, "../data/PhiUSIIL_Phishing_URL_Dataset.csv")
+MODEL_PATH  = os.path.join(BASE_DIR, "../models/url_lgbm.joblib")
 if not os.path.exists(DATASET_CSV):
     sys.exit(f"Dataset not found: {DATASET_CSV}")
 if not os.path.exists(MODEL_PATH):

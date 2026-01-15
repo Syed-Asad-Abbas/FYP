@@ -1,0 +1,208 @@
+{
+  "total": 20,
+  "phishing": 3,
+  "benign": 17,
+  "errors": 0,
+  "details": [
+    {
+      "url": "http://allegrolokalnie.pl-oferta73419590.icu",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746872762236,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "http://allegro.pl-oferta73419590.icu",
+      "prediction": "BENIGN",
+      "confidence": 0.9999747804336029,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "https://zanilo.cfd/indexco.jp",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746884882424,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://deliva.cfd/indexco.jp",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746884882424,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://bpp01-6816a2c8dbc1.herokuapp.com/",
+      "prediction": "BENIGN",
+      "confidence": 0.9999658585711357,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://beneficios-banproduccion2-five.vercel.app/...",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746884882424,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://netempresa.sac-on.com/sicronizar/8VY0JG5G...",
+      "prediction": "PHISHING",
+      "confidence": 0.6250073909759521,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "http://allegrolokalnie.pl-oferta98137359.sbs",
+      "prediction": "BENIGN",
+      "confidence": 0.9999747526161139,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "https://abszfgrtr65.blogspot.com",
+      "prediction": "BENIGN",
+      "confidence": 0.9999659980086973,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "http://allegrolokalnie.oferta212472.sbs",
+      "prediction": "BENIGN",
+      "confidence": 0.9999747586231259,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "http://allegro.pl-oferta955294390.icu",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746872762236,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "https://serbasi1.blogspot.com",
+      "prediction": "PHISHING",
+      "confidence": 0.6016741991043091,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "https://app.biamilhasofertas.live/inicio",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746750695536,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "http://allegro.pl-3255111.cyou",
+      "prediction": "BENIGN",
+      "confidence": 0.9999659980700203,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://app.promoexata.live/splash",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746750695536,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "https://app.biaatendimentoclube.live/baser",
+      "prediction": "BENIGN",
+      "confidence": 0.9999658585711357,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "http://allegrolokalnie.pl-82725255162619876667a726252552526267pp271.ic...",
+      "prediction": "BENIGN",
+      "confidence": 0.9999746884882424,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://maintain.antiquels.cn/mizuho",
+      "prediction": "BENIGN",
+      "confidence": 0.9999656067873505,
+      "modalities": {
+        "url": true,
+        "dom": false,
+        "visual": false
+      }
+    },
+    {
+      "url": "https://scanned.page/55eUnV",
+      "prediction": "PHISHING",
+      "confidence": 0.7775391407889176,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    },
+    {
+      "url": "http://78382google.com",
+      "prediction": "BENIGN",
+      "confidence": 0.9999747312360658,
+      "modalities": {
+        "url": true,
+        "dom": true,
+        "visual": true
+      }
+    }
+  ]
+}

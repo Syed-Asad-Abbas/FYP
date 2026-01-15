@@ -1,18 +1,18 @@
 {
   "url_only": {
-    "accuracy": 0.995,
-    "precision_phish": 0.9912739965095986,
+    "accuracy": 0.998,
+    "precision_phish": 0.9965065502183406,
     "recall_phish": 1.0,
-    "f1_phish": 0.9956178790534619
+    "f1_phish": 0.9982502187226596
   },
   "dom_only": {
-    "accuracy": 0.987,
-    "precision_phish": 0.9876977152899824,
-    "recall_phish": 0.9894366197183099,
-    "f1_phish": 0.9885664028144239
+    "accuracy": 0.989,
+    "precision_phish": 0.989501312335958,
+    "recall_phish": 0.9912357581069238,
+    "f1_phish": 0.9903677758318739
   },
   "visual_only": {
-    "accuracy": 0.9230769230769231,
+    "accuracy": 0.95,
     "precision_phish": 1.0,
     "recall_phish": 0.7777777777777778,
     "f1_phish": 0.875
@@ -24,16 +24,16 @@
     "f1_phish": 1.0
   },
   "url_visual": {
-    "accuracy": 0.995,
-    "precision_phish": 0.9912739965095986,
+    "accuracy": 0.998,
+    "precision_phish": 0.9965065502183406,
     "recall_phish": 1.0,
-    "f1_phish": 0.9956178790534619
+    "f1_phish": 0.9982502187226596
   },
   "dom_visual": {
-    "accuracy": 0.987,
-    "precision_phish": 0.9876977152899824,
-    "recall_phish": 0.9894366197183099,
-    "f1_phish": 0.9885664028144239
+    "accuracy": 0.9895,
+    "precision_phish": 0.9903677758318739,
+    "recall_phish": 0.9912357581069238,
+    "f1_phish": 0.9908015768725361
   },
   "all_modalities": {
     "accuracy": 1.0,

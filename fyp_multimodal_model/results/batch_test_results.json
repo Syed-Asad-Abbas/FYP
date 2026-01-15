@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://www.atelierozmoz.be",
+    "prediction": "BENIGN",
+    "confidence": "99.98%",
+    "url_score": 2.006725877226531e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.diemon.com",
+    "prediction": "BENIGN",
+    "confidence": "100.00%",
+    "url_score": 1.3834705077334958e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.wausauschools.org",
+    "prediction": "BENIGN",
+    "confidence": "99.98%",
+    "url_score": 1.7659288009439138e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.paademode.com",
+    "prediction": "BENIGN",
+    "confidence": "99.98%",
+    "url_score": 2.257833064970784e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.boxturtles.com",
+    "prediction": "BENIGN",
+    "confidence": "100.00%",
+    "url_score": 9.309407233069823e-10,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.mmstadium.com",
+    "prediction": "BENIGN",
+    "confidence": "99.98%",
+    "url_score": 2.257833064970784e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.brswimwear.com",
+    "prediction": "BENIGN",
+    "confidence": "100.00%",
+    "url_score": 9.309407233069823e-10,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.leathercouncil.org",
+    "prediction": "BENIGN",
+    "confidence": "99.98%",
+    "url_score": 1.8722155106752119e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.historync.org",
+    "prediction": "BENIGN",
+    "confidence": "99.98%",
+    "url_score": 2.257833064970784e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  },
+  {
+    "url": "https://www.toshin.com",
+    "prediction": "BENIGN",
+    "confidence": "100.00%",
+    "url_score": 1.3834705077334958e-06,
+    "dom_score": 0.042275659296182384,
+    "visual_score": null
+  }
+]

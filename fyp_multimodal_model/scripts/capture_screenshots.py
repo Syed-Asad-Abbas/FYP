@@ -9,8 +9,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 from tqdm import tqdm  # progress bar
 
 # ==== CONFIG ====
-CSV_PATH = "E:/FYP/fyp_multimodal_model/data/PhiUSIIL_Phishing_URL_Dataset.csv"
-OUTPUT_DIR = "E:/FYP/fyp_multimodal_model/screenshots"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CSV_PATH = os.path.join(BASE_DIR, "../data/PhiUSIIL_Phishing_URL_Dataset.csv")
+OUTPUT_DIR = os.path.join(BASE_DIR, "../screenshots")
 WAIT_TIME = 15      # seconds to wait for page load
 BATCH_SIZE = 5000   # number of screenshots per batch
 HEADLESS = True

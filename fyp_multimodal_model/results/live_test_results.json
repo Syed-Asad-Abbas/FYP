@@ -1,0 +1,324 @@
+[
+  {
+    "url": "https://www.google.com",
+    "prediction": "BENIGN",
+    "confidence": 0.9990457261093914,
+    "fusion_probability_phishing": 0.0009542738906086965,
+    "modality_scores": {
+      "url": 1.2955446209348823e-06,
+      "dom": 0.979975954696664,
+      "visual": 0.1299653947353363
+    },
+    "modality_confidence": {
+      "url": 0.9999987044553791,
+      "dom": 0.979975954696664,
+      "visual": 0.8700346350669861
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Google",
+      "final_url": "https://www.google.com/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908823706.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 4,
+      "NoOfImage": 9,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 19,
+      "NoOfExternalJS": 1,
+      "NoOfLinks": 18,
+      "NoOfExternalLinks": 15,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0
+    }
+  },
+  {
+    "url": "https://www.github.com",
+    "prediction": "BENIGN",
+    "confidence": 0.9990121131957744,
+    "fusion_probability_phishing": 0.000987886804225557,
+    "modality_scores": {
+      "url": 1.2955446209348823e-06,
+      "dom": 0.9843446371858899,
+      "visual": 0.8884135484695435
+    },
+    "modality_confidence": {
+      "url": 0.9999987044553791,
+      "dom": 0.9843446371858899,
+      "visual": 0.8884135484695435
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "GitHub \u00b7 Change is constant. GitHub keeps you ahead. \u00b7 GitHub",
+      "final_url": "https://github.com/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908835376.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 5,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 7,
+      "NoOfImage": 30,
+      "NoOfExternalImage": 8,
+      "NoOfJS": 55,
+      "NoOfExternalJS": 50,
+      "NoOfLinks": 149,
+      "NoOfExternalLinks": 69,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0
+    }
+  },
+  {
+    "url": "https://www.wikipedia.org",
+    "prediction": "BENIGN",
+    "confidence": 0.9998936543205617,
+    "fusion_probability_phishing": 0.00010634567943834673,
+    "modality_scores": {
+      "url": 1.2271648310924326e-06,
+      "dom": 0.41867735575135023,
+      "visual": 0.525260865688324
+    },
+    "modality_confidence": {
+      "url": 0.9999987728351689,
+      "dom": 0.5813226442486498,
+      "visual": 0.525260865688324
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Wikipedia",
+      "final_url": "https://www.wikipedia.org/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908846314.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 2,
+      "NoOfImage": 2,
+      "NoOfExternalImage": 1,
+      "NoOfJS": 4,
+      "NoOfExternalJS": 0,
+      "NoOfLinks": 375,
+      "NoOfExternalLinks": 11,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0
+    }
+  },
+  {
+    "url": "https://www.microsoft.com",
+    "prediction": "BENIGN",
+    "confidence": 0.9999730087670662,
+    "fusion_probability_phishing": 2.6991232933833293e-05,
+    "modality_scores": {
+      "url": 1.2271648310924326e-06,
+      "dom": null,
+      "visual": null
+    },
+    "modality_confidence": {
+      "url": 0.9999987728351689,
+      "dom": null,
+      "visual": null
+    },
+    "modality_available": {
+      "url": true,
+      "dom": false,
+      "visual": false
+    },
+    "page_info": {
+      "fetch_success": false,
+      "page_title": null,
+      "final_url": "https://www.microsoft.com",
+      "screenshot_path": null
+    },
+    "dom_features": {}
+  },
+  {
+    "url": "https://www.stackoverflow.com",
+    "prediction": "BENIGN",
+    "confidence": 0.9999746682252815,
+    "fusion_probability_phishing": 2.533177471849055e-05,
+    "modality_scores": {
+      "url": 1.0324630427086505e-06,
+      "dom": 0.9371784482185972,
+      "visual": 0.8774198889732361
+    },
+    "modality_confidence": {
+      "url": 0.9999989675369573,
+      "dom": 0.9371784482185972,
+      "visual": 0.8774198889732361
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Newest Questions - Stack Overflow",
+      "final_url": "https://stackoverflow.com/questions",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908881155.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 8,
+      "HasPasswordField": 1,
+      "NoOfHiddenInputs": 19,
+      "NoOfImage": 16,
+      "NoOfExternalImage": 16,
+      "NoOfJS": 55,
+      "NoOfExternalJS": 32,
+      "NoOfLinks": 222,
+      "NoOfExternalLinks": 89,
+      "HasIframe": 1,
+      "NoOfIframe": 4,
+      "SuspiciousFormAction": 0
+    }
+  },
+  {
+    "url": "https://www.reddit.com",
+    "prediction": "BENIGN",
+    "confidence": 0.999893619656507,
+    "fusion_probability_phishing": 0.00010638034349292244,
+    "modality_scores": {
+      "url": 1.2955446209348823e-06,
+      "dom": 0.3823182891822358,
+      "visual": 0.018718920648097992
+    },
+    "modality_confidence": {
+      "url": 0.9999987044553791,
+      "dom": 0.6176817108177641,
+      "visual": 0.9812811017036438
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Reddit - Prove your humanity",
+      "final_url": "https://www.reddit.com/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908892457.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 1,
+      "NoOfExternalImage": 0,
+      "NoOfJS": 3,
+      "NoOfExternalJS": 2,
+      "NoOfLinks": 6,
+      "NoOfExternalLinks": 6,
+      "HasIframe": 1,
+      "NoOfIframe": 3,
+      "SuspiciousFormAction": 0
+    }
+  },
+  {
+    "url": "https://www.amazon.com",
+    "prediction": "BENIGN",
+    "confidence": 0.999893619656507,
+    "fusion_probability_phishing": 0.00010638034349292244,
+    "modality_scores": {
+      "url": 1.2955446209348823e-06,
+      "dom": 0.36463421446803834,
+      "visual": 0.080265574157238
+    },
+    "modality_confidence": {
+      "url": 0.9999987044553791,
+      "dom": 0.6353657855319617,
+      "visual": 0.9197344183921814
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Amazon.com",
+      "final_url": "https://www.amazon.com/",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908902622.png"
+    },
+    "dom_features": {
+      "HasForm": 1,
+      "NoOfForm": 1,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 3,
+      "NoOfImage": 2,
+      "NoOfExternalImage": 2,
+      "NoOfJS": 7,
+      "NoOfExternalJS": 4,
+      "NoOfLinks": 2,
+      "NoOfExternalLinks": 2,
+      "HasIframe": 0,
+      "NoOfIframe": 0,
+      "SuspiciousFormAction": 0
+    }
+  },
+  {
+    "url": "https://www.paypal.com",
+    "prediction": "BENIGN",
+    "confidence": 0.999388778088485,
+    "fusion_probability_phishing": 0.0006112219115149385,
+    "modality_scores": {
+      "url": 1.2955446209348823e-06,
+      "dom": 0.9616839895062053,
+      "visual": 0.8969942927360535
+    },
+    "modality_confidence": {
+      "url": 0.9999987044553791,
+      "dom": 0.9616839895062053,
+      "visual": 0.8969942927360535
+    },
+    "modality_available": {
+      "url": true,
+      "dom": true,
+      "visual": true
+    },
+    "page_info": {
+      "fetch_success": true,
+      "page_title": "Send Money, Pay Online or Set Up a Merchant Account - PayPal",
+      "final_url": "https://www.paypal.com/pk/home",
+      "screenshot_path": "C:\\Users\\asad\\AppData\\Local\\Temp\\phishing_detection_screenshots\\screenshot_1763908918337.png"
+    },
+    "dom_features": {
+      "HasForm": 0,
+      "NoOfForm": 0,
+      "HasPasswordField": 0,
+      "NoOfHiddenInputs": 0,
+      "NoOfImage": 10,
+      "NoOfExternalImage": 10,
+      "NoOfJS": 21,
+      "NoOfExternalJS": 10,
+      "NoOfLinks": 96,
+      "NoOfExternalLinks": 92,
+      "HasIframe": 1,
+      "NoOfIframe": 1,
+      "SuspiciousFormAction": 0
+    }
+  }
+]

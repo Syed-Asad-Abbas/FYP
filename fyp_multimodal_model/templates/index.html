@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Detection</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Space+Mono:wght@400;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+
+<body>
+    <div class="background-grid"></div>
+    <div class="background-glow"></div>
+
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fa-solid fa-shield-halved"></i>
+                <span></span>
+            </div>
+            <p class="subtitle">Multimodal Phishing Detection System</p>
+        </header>
+
+        <main>
+            <div class="search-container">
+                <div class="input-group">
+                    <i class="fa-solid fa-link input-icon"></i>
+                    <input type="text" id="urlInput" placeholder="Enter URL to analyze (e.g., https://example.com)..."
+                        autocomplete="off">
+                    <button id="scanBtn">
+                        <span>ANALYZE</span>
+                        <i class="fa-solid fa-radar"></i>
+                    </button>
+                </div>
+                <div class="error-message" id="errorMessage"></div>
+            </div>
+
+            <div class="loading-container" id="loadingContainer">
+                <div class="scanner"></div>
+                <p class="loading-text">Scanning Target...</p>
+                <div class="loading-steps">
+                    <span class="step" id="step1">Checking Liveness...</span>
+                    <span class="step" id="step2">Fetching Content...</span>
+                    <span class="step" id="step3">Analyzing DOM...</span>
+                    <span class="step" id="step4">Visual Inspection...</span>
+                </div>
+            </div>
+
+            <div class="results-container" id="resultsContainer">
+                <div class="result-header">
+                    <div class="verdict-badge" id="verdictBadge">
+                        <span id="verdictText">BENIGN</span>
+                    </div>
+                    <div class="confidence-meter">
+                        <span class="label">Confidence</span>
+                        <div class="meter-bg">
+                            <div class="meter-fill" id="confidenceFill"></div>
+                        </div>
+                        <span class="value" id="confidenceValue">99.9%</span>
+                    </div>
+                </div>
+
+                <div class="grid-layout">
+                    <div class="card modality-card">
+                        <h3><i class="fa-solid fa-layer-group"></i> Modality Breakdown</h3>
+
+                        <div class="modality-item">
+                            <div class="modality-info">
+                                <span class="name">URL Analysis</span>
+                                <span class="status" id="urlStatus">Active</span>
+                            </div>
+                            <div class="score-bar">
+                                <div class="fill" id="urlScoreBar"></div>
+                            </div>
+                            <span class="score-value" id="urlScoreVal">0.00</span>
+                        </div>
+
+                        <div class="modality-item">
+                            <div class="modality-info">
+                                <span class="name">DOM Structure</span>
+                                <span class="status" id="domStatus">Active</span>
+                            </div>
+                            <div class="score-bar">
+                                <div class="fill" id="domScoreBar"></div>
+                            </div>
+                            <span class="score-value" id="domScoreVal">0.00</span>
+                        </div>
+
+                        <div class="modality-item">
+                            <div class="modality-info">
+                                <span class="name">Visual Appearance</span>
+                                <span class="status" id="visualStatus">Active</span>
+                            </div>
+                            <div class="score-bar">
+                                <div class="fill" id="visualScoreBar"></div>
+                            </div>
+                            <span class="score-value" id="visualScoreVal">0.00</span>
+                        </div>
+
+                        <div class="fusion-info">
+                            <p>Fusion Probability: <span id="fusionProb">0.00%</span></p>
+                        </div>
+                    </div>
+
+                    <div class="card screenshot-card">
+                        <h3><i class="fa-solid fa-image"></i> Page Screenshot</h3>
+                        <div class="image-wrapper">
+                            <img id="screenshotImg" src="" alt="Page Screenshot">
+                            <div class="no-image" id="noImage">No Screenshot Available</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <button class="toggle-details" id="toggleDetails">
+                        Show Technical Details <i class="fa-solid fa-chevron-down"></i>
+                    </button>
+                    <div class="json-viewer" id="jsonViewer">
+                        <pre id="jsonContent"></pre>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025. Powered by Multimodal AI.</p>
+        </footer>
+    </div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+
+</html>

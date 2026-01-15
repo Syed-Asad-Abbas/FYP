@@ -2,9 +2,14 @@ pandas
 numpy
 scikit-learn
 lightgbm
+shap
 gensim
 tqdm
 torch
 torchvision
 Pillow
 joblib
+selenium
+beautifulsoup4
+webdriver-manager
+flask
