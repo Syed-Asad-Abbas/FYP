@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.9982612014673763,
+  "report": {
+    "0": {
+      "precision": 0.9998011434253045,
+      "recall": 0.9961365099806826,
+      "f1-score": 0.9979654624851131,
+      "support": 20189.0
+    },
+    "1": {
+      "precision": 0.9971158112705221,
+      "recall": 0.999851687059696,
+      "f1-score": 0.9984818750694264,
+      "support": 26970.0
+    },
+    "accuracy": 0.9982612014673763,
+    "macro avg": {
+      "precision": 0.9984584773479133,
+      "recall": 0.9979940985201893,
+      "f1-score": 0.9982236687772698,
+      "support": 47159.0
+    },
+    "weighted avg": {
+      "precision": 0.9982654151822442,
+      "recall": 0.9982612014673763,
+      "f1-score": 0.998260796300481,
+      "support": 47159.0
+    }
+  },
+  "features_used": [
+    "URLLength",
+    "DomainLength",
+    "IsDomainIP",
+    "URLSimilarityIndex",
+    "CharContinuationRate",
+    "TLDLegitimateProb",
+    "URLCharProb",
+    "TLDLength",
+    "NoOfSubDomain",
+    "HasObfuscation",
+    "NoOfObfuscatedChar",
+    "ObfuscationRatio"
+  ]
+}

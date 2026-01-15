@@ -1,0 +1,105 @@
+{
+  "accuracy": 0.8882521489971347,
+  "best_test_acc": 0.8882521489971347,
+  "confusion_matrix": [
+    [
+      616,
+      89
+    ],
+    [
+      28,
+      314
+    ]
+  ],
+  "FPR": 0.126241134751594,
+  "FNR": 0.08187134502900038,
+  "TNR": 0.8737588652469875,
+  "MCC": 0.7632655369514996,
+  "ROC_AUC": 0.9567209987142797,
+  "model_size_mb": 89.99702644348145,
+  "latency_ms": 0.6440941250548349,
+  "throughput_sps": 1552.5681124864554,
+  "zero_day_detection_rate": null,
+  "hard_case_detection_rate": null,
+  "false_positive_cost": 89.0,
+  "report": {
+    "0": {
+      "precision": 0.9565217391304348,
+      "recall": 0.873758865248227,
+      "f1-score": 0.9132690882134915,
+      "support": 705.0
+    },
+    "1": {
+      "precision": 0.7791563275434243,
+      "recall": 0.9181286549707602,
+      "f1-score": 0.8429530201342282,
+      "support": 342.0
+    },
+    "accuracy": 0.8882521489971347,
+    "macro avg": {
+      "precision": 0.8678390333369296,
+      "recall": 0.8959437601094936,
+      "f1-score": 0.8781110541738599,
+      "support": 1047.0
+    },
+    "weighted avg": {
+      "precision": 0.8985857594143338,
+      "recall": 0.8882521489971347,
+      "f1-score": 0.8903005158322995,
+      "support": 1047.0
+    }
+  },
+  "num_images": 5234,
+  "epoch_table": [
+    {
+      "epoch": 10,
+      "train_loss": 0.26036127616660476,
+      "train_acc": 0.9051827083830906,
+      "test_acc": 0.8595988538681948,
+      "phish_precision": 0.7262180974477959,
+      "phish_recall": 0.9152046783625731,
+      "phish_f1": 0.8098318240620958,
+      "phish_support": 342
+    },
+    {
+      "epoch": 20,
+      "train_loss": 0.2540925020978819,
+      "train_acc": 0.9047050394076904,
+      "test_acc": 0.8672397325692455,
+      "phish_precision": 0.7434052757793765,
+      "phish_recall": 0.9064327485380117,
+      "phish_f1": 0.8168642951251647,
+      "phish_support": 342
+    },
+    {
+      "epoch": 30,
+      "train_loss": 0.2598852638714861,
+      "train_acc": 0.9030331979937903,
+      "test_acc": 0.8701050620821394,
+      "phish_precision": 0.7475961538461539,
+      "phish_recall": 0.9093567251461988,
+      "phish_f1": 0.820580474934037,
+      "phish_support": 342
+    },
+    {
+      "epoch": 40,
+      "train_loss": 0.25426532124914986,
+      "train_acc": 0.9058992118461906,
+      "test_acc": 0.8624641833810889,
+      "phish_precision": 0.7291666666666666,
+      "phish_recall": 0.9210526315789473,
+      "phish_f1": 0.813953488372093,
+      "phish_support": 342
+    },
+    {
+      "epoch": 50,
+      "train_loss": 0.26037754165776056,
+      "train_acc": 0.9056603773584906,
+      "test_acc": 0.8586437440305635,
+      "phish_precision": 0.7224770642201835,
+      "phish_recall": 0.9210526315789473,
+      "phish_f1": 0.8097686375321337,
+      "phish_support": 342
+    }
+  ]
+}
